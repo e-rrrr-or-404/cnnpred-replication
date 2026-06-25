@@ -29,5 +29,5 @@ Copy `.env.example` to `.env` and fill in your FRED API key.
 ## Links
 
 - Decisions log: [Google Doc link]
-- Raw data drive: [Drive link]
+- Raw data drive: https://drive.google.com/drive/folders/1LVNJ4dpWOllAPKvWtvw7KeAlvhmqgJOQ?usp=drive_link
 - Original paper: https://doi.org/10.1016/j.eswa.2019.03.029
